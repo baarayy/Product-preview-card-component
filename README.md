@@ -1,2 +1,2 @@
 # Product-preview-card-component
-Frontend Mentor task
+Frontend Mentor task for practicing HTML & CSS
